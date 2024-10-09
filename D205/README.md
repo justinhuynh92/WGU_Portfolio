@@ -11,9 +11,6 @@ WGU outlines the following competencies as a part of this class:
 - **Physical Data Models**: The graduate implements physical data models.
 - **Table Operations**: The graduate performs table operations and queries within the context of data acquisition for analysis.
 
-## Course Materials
-WGU's course materials consist of [1](#), [2](#), [3](#), [4](#), [5](#), [6](#) courses on DataCamp.
-
 ## Practical Assessment(s) Overview & Files
 This course has a single Practical Assessment. This project requires the student to access a virtual machine and use PostgreSQL and pgAdmin to import an external `.csv` file into an existing database as a new table, designing conceptual, logical, and physical models describing this. Once
 
