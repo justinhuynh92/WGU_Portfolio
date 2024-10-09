@@ -17,6 +17,6 @@ WGU's course materials consist of [1](#), [2](#), [3](#), [4](#), [5](#), [6](#)
 ## Practical Assessment(s) Overview & Files
 This course has a single Practical Assessment. This project requires the student to access a virtual machine and use PostgreSQL and pgAdmin to import an external `.csv` file into an existing database as a new table, designing conceptual, logical, and physical models describing this. Once
 
-My research question for this project is “How many people who use Fiber Optic service make at least six figures?” [My summary for this project, including the necessary SQL queries, can be viewed here.](D205/WGU_D205_Task_1.pdf)
+My research question for this project is “How many people who use Fiber Optic service make at least six figures?” [My summary for this project, including the necessary SQL queries, can be viewed here.](WGU_D205_Task_1.pdf)
 
 This task required a video presentation, demonstrating the successful operation of all code included in my report and covering certain aspects of the report. That video can be seen here.
