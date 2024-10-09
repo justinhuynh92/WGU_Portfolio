@@ -16,4 +16,4 @@ This course has a single Practical Assessment. This project requires the student
 
 My research question for this project is “How many people who use Fiber Optic service make at least six figures?” [My summary for this project, including the necessary SQL queries, can be viewed here.](WGU_D205_Task_1.pdf)
 
-This task required a video presentation, demonstrating the successful operation of all code included in my report and covering certain aspects of the report. That video can be seen here.
+This task required a video presentation, demonstrating the successful operation of all code included in my report and covering certain aspects of the report. [That video can be seen here.](https://drive.google.com/file/d/1uawUqqoIlSpQQ_6sAOxfHxXiHZo4Ze_0/view?usp=drive_link)
