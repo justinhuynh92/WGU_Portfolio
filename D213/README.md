@@ -15,15 +15,15 @@ WGU outlines the following competencies as a part of this class:
 This project requires the student to develop and answer a research question, using one of the two provided datasets (medical or churn) and ARIMA/SARIMA time series modelling techniques. The student must generate a number of time series visualizations, evaluate the stationarity of the series, account for trends and seasonality, and develop a forecast in the course of addressing this research question.
 
 My research question for this task is “How can we predict future revenue trends and identify potential periods of declining revenue in the company's first two years of operation based on historical daily revenue data?” 
-- My summary for this project can be viewed [here.](WGU_D209_Task_1.pdf)
-- My Python code can be viewed [here.](WGU_D209_Task_1.ipynb)
-- The video demonstrating the successful operation of all the code including covering certain aspects of the report can be viewed [here.](https://drive.google.com/file/d/1M8qwlIq5r_Qhl_iRPvsDseO23apBpwKK/view?usp=drive_link)
+- My summary for this project can be viewed [here.](WGU_D213_Task_1.pdf)
+- My Python code can be viewed [here.](WGU_D213_Task_1.ipynb)
 
 **Task 2**
 
 This project requires the student to develop and answer a research question, using one of the two provided datasets (medical or churn) and decision trees, random forests, or advanced regression (lasso or ridge) analysis. Students identify a set of variables to use and split the data into training and test sets before performing their classification analysis to answer this research question.
 
 My research question for this task is “How can sentiment analysis of customer reviews from the Amazon, IMDb, and Yelp files be used to predict the likelihood of customer satisfaction with these products, movies, and services?” 
-- My summary for this project can be viewed [here.](WGU_D209_Task_2.pdf)
-- My Python code can be viewed [here.](WGU_D209_Task_2.ipynb)
-- The video demonstrating the successful operation of all the code including covering certain aspects of the report can be viewed [here.](https://drive.google.com/file/d/1ncpSX7tEBCEbx3uuro2wYzk3irsDZBVl/view?usp=drive_link)
+- My summary for this project can be viewed [here.](WGU_D213_Task_2.pdf)
+- My Python code can be viewed [here.](WGU_D213_Task_2.ipynb)
+
+This course did not require video presentations.
