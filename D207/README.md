@@ -9,7 +9,7 @@ WGU outlines the following competencies as a part of this class:
 - **Conducting Parametric Testing**: The graduate conducts parametric hypothesis testing.
 
 ## Practical Assessment(s) Overview & Files
-This course has a single Practical Assessment. This project requires the student to use one of the provided datasets (medical or churn) and develop a research question to be analyzed by using one of chi-square, t-test, or ANOVA techniques to test a hypothesis relating to that research question. The student must also develop a number of univariate and bivariate statistics describing variables in the dataset.
+This project requires the student to use one of the provided datasets (medical or churn) and develop a research question to be analyzed by using one of chi-square, t-test, or ANOVA techniques to test a hypothesis relating to that research question. The student must also develop a number of univariate and bivariate statistics describing variables in the dataset.
 
 My research question for this project is “Does a relationship exist between people who were never married and those with a longer contract?” 
 - My summary for this project can be viewed [here.](WGU_D207_Task_1.pdf)
