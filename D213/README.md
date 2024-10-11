@@ -8,7 +8,7 @@ WGU outlines the following competencies as a part of this class:
 - **Time Series Analysis**: The graduate applies time series models in generating forecasts.
 - **Neural Networks**: The graduate builds neural networks in the context of machine-learning modeling.
 - **Natural Language Processing**: The graduate extracts insights from text data using effective and appropriate natural processing (NLP) models.
-- 
+
 ## Practical Assessment(s) Overview & Files
 **Task 1**
 
