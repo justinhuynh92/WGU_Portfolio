@@ -10,7 +10,7 @@ WGU outlines the following competencies as a part of this class:
 - **Table Operations**: The graduate performs table operations and queries within the context of data acquisition for analysis.
 
 ## Practical Assessment(s) Overview & Files
-This course has a single Practical Assessment. This project requires the student to access a virtual machine and use PostgreSQL and pgAdmin to import an external `.csv` file into an existing database as a new table, designing conceptual, logical, and physical models describing this. Once imported, the database must then be explored and generate SQL queries to answer the research question.
+This project requires the student to access a virtual machine and use PostgreSQL and pgAdmin to import an external `.csv` file into an existing database as a new table, designing conceptual, logical, and physical models describing this. Once imported, the database must then be explored and generate SQL queries to answer the research question.
 
 My research question for this project is “How many people who use Fiber Optic service make at least six figures?” 
 
