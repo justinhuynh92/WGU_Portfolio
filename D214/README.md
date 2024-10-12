@@ -27,4 +27,4 @@ My research question for this task is “How does the marketing channel used in 
 This task requires the student to develop an executive summary of their capstone project from Task 2. This executive summary is intended for an audience with expertise in data analysis, and it must communicate the study problem & hypothesis, the data analysis process, study findings, study limitations, recommended actions (including avenues for further study), and expected corporate benefits.
 
 - My summary for this project can be viewed [here.](WGU_D214_Task_3.pdf)
-- The video demonstrating the successful operation of all the code including covering certain aspects of the report can be viewed [here.](https://drive.google.com/file/d/1hf43vyccptSASX2BNvmhJsN4DQHOh2kP/view?usp=drive_link)
+- The video presentation intended for a non-technical audience can be viewed [here.](https://drive.google.com/file/d/1hf43vyccptSASX2BNvmhJsN4DQHOh2kP/view?usp=drive_link)
